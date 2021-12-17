@@ -1,0 +1,1 @@
+The icons in this directory are licensed under the MIT License. We have adopted [these icons](https://github.com/radix-ui/icons) for this project. The full MIT License can be found [here](https://choosealicense.com/licenses/mit/).
